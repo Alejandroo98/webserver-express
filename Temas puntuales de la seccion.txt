@@ -1,0 +1,13 @@
+1. Uso y configuracion de Express
+2. Servir contenido estatico
+3. Template engines
+4.Handerbars
+     a. Helpers
+     b. Parciales
+     c. Variables
+5. Despliegues en Heroku y Github
+6.Hacer carpetas publicas en la web
+
+
+--------------DATOS-------------
+npm i express --save  //Save significa que es una dependencia que vamos a nececitar para poder corres nuestro programa
