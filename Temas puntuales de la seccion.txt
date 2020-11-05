@@ -11,3 +11,5 @@
 
 --------------DATOS-------------
 npm i express --save  //Save significa que es una dependencia que vamos a nececitar para poder corres nuestro programa
+
+hasta aqui capitulo 70. You got it!!!!!!!!!!!!!!!!!!
